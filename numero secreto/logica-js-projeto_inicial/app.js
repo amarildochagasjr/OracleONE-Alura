@@ -2,10 +2,9 @@ alert('Olá, tudo bem ?\nBoas vindas ao jogo do número secreto !!!');
 
 alert('Você tem 03 chances para acertar o número que vou escolher entre 1 e 15. Vamos lá ?\n\nVou pensar em um número...');
 
-let chances = 1
+let chances = 1;
 
-let numeroSecreto = Math.floor((Math.random() * 15) + 1)
-console.log(numeroSecreto)
+let numeroSecreto = Math.floor((Math.random() * 15) + 1);
 
 let numeroEscolhido = prompt('Ok, ja escolhi meu número. Agora é sua vez, Digite um número entre 1 e 15:');
 
