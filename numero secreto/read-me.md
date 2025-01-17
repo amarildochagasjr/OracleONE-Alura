@@ -1,4 +1,4 @@
-<img src= './img/ONE_logo.rgb.png'>
+
 
 Atividade número secreto.
 
