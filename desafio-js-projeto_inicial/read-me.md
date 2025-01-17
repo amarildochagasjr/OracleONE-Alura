@@ -1,10 +1,12 @@
-Desafio inicial da Alura para Iniciante em Programação G8 - OracleONE.
+<img src='./img/ONE_logo.png'>
 
-Descrição:
+# Desafio inicial da Alura para Iniciante em Programação G8 - OracleONE.
+
+### Descrição:
   O desafio consta em criar um script em JavaScript para verificar se o parâmetro idade passado pelo usuário está inserido no intervalo determinado pela condição pré-determinada conforme passos abaixo.
 
 
-Desafio:
+### Desafio:
   1. Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
   2. Declare uma variável chamada nome e atribua a ela o valor "Lua".
