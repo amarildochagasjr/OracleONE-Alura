@@ -12,7 +12,6 @@ while(numeroMaximo < 10){
     numeroMaximo = prompt('Lembre-se este número deve ser maior ou igual a 10. \nDigite um número >= 10:');
 }
 
-
 if (numeroMaximo <= 75){
     maximoChance = 5;
 
@@ -23,8 +22,6 @@ if (numeroMaximo <= 75){
     maximoChance = 10;
 }
             
-
-
 alert(`Você tem ${maximoChance} chances para acertar o número que vou escolher entre 1 e ${numeroMaximo}. Vamos lá ?\n\nVou pensar em um número...`);
 
 numeroSecreto = parseInt((Math.random() * numeroMaximo) + 1);
