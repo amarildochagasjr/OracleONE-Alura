@@ -10,9 +10,9 @@ Bem-vindo ao **Projeto Jogo do número secreto**! Aqui, você vai encontrar tudo
 
 1. [Sobre o Projeto](#sobre-o-projeto)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-2. [Requisitos](#requisitos)
-3. [Passo a Passo](#passo-a-passo)
-4. [Organizadores](##organizadores)
+3. [Requisitos](#requisitos)
+4. [Passo a Passo](#passo-a-passo)
+5. [Organizadores](##organizadores)
 
 ---
 
@@ -46,6 +46,6 @@ Antes de instalar, certifique-se de ter as seguintes ferramentas:
    git clone https://github.com/amarildochagasjr/OracleONE-Alura
 
 ## Organizadores:
-<br>
 
 [![Alura](img/alura-logo2.jpeg)](https://www.alura.com.br/) **Alura** &nbsp;&nbsp;&nbsp;&nbsp; [![Oracle](img/one.png)](https://www.oracle.com/br/education/oracle-next-education/) **ONE**
+
