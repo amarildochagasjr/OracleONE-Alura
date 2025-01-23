@@ -9,9 +9,10 @@ Bem-vindo ao **Projeto Jogo do número secreto**! Aqui, você vai encontrar tudo
 ## Índice
 
 1. [Sobre o Projeto](#sobre-o-projeto)
-2. [Requisitos](#requisitos)
-3. [Passo a Passo](#passo-a-passo)
-4. [Organizadores](#organizadores)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+3. [Requisitos](#requisitos)
+4. [Passo a Passo](#passo-a-passo)
+5. [Organizadores](##organizadores)
 
 ---
 
@@ -22,7 +23,7 @@ em um intervalo determinado pelo usuário, logo em seguida este usuário tentar�
 
 Este projeto faz parte da trilha Iniciante em Programação G8 - ONE oferecida em parceria da Oracle com Alura.
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **JavaScript**: Criado por Amarildo Chagas Junior
 - **HTML**      : Criado por equipe Alura
@@ -46,4 +47,5 @@ Antes de instalar, certifique-se de ter as seguintes ferramentas:
 
 ## Organizadores:
 
-[![Alura](img/alura.jpeg)](https://www.alura.com.br/) **Alura** &nbsp;&nbsp;&nbsp;&nbsp; [![Oracle](img/one.png)](https://www.oracle.com/br/education/oracle-next-education/) **ONE**
+[![Alura](img/alura-logo2.jpeg)](https://www.alura.com.br/) **Alura** &nbsp;&nbsp;&nbsp;&nbsp; [![Oracle](img/one.png)](https://www.oracle.com/br/education/oracle-next-education/) **ONE**
+
