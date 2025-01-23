@@ -1,17 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <!-- Imagem maior -->
-  <img src="img/Alura-OracleONE.png" alt="Imagem Grande" style="width: 40%; margin-right: 10px;">
-
-  <!-- Imagens menores lado a lado -->
-  <div>
-    <a href="https://www.alura.com.br" target="_blank">
-      <img src="img/alura.jpeg" alt="Alura Logo" style=" width: 27px; display: block; margin-bottom: 10px; border-radius: 7px;">
-    </a>
-    <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">
-      <img src="img/one.png" alt="Oracle Logo" style=" width: 25px;  display: block; margin-bottom: 10px; border-radius: 7px;">
-    </a>
-  </div>
-</div>
+![Alura - OracleONE](img/Alura-OracleONE.png)
 
 # Projeto Jogo do número secreto
 
@@ -22,10 +9,10 @@ Bem-vindo ao **Projeto Jogo do número secreto**! Aqui, você vai encontrar tudo
 ## Índice
 
 1. [Sobre o Projeto](#sobre-o-projeto)
-2. [Instalação](#instalacao)
-3. [Exemplo de Uso](#exemplo-de-uso)
-4. [Contribuindo](#contribuindo)
-5. [Licença](#licenca)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+2. [Requisitos](#requisitos)
+3. [Passo a Passo](#passo-a-passo)
+4. [Organizadores](##organizadores)
 
 ---
 
@@ -36,7 +23,7 @@ em um intervalo determinado pelo usuário, logo em seguida este usuário tentar�
 
 Este projeto faz parte da trilha Iniciante em Programação G8 - ONE oferecida em parceria da Oracle com Alura.
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **JavaScript**: Criado por Amarildo Chagas Junior
 - **HTML**      : Criado por equipe Alura
@@ -44,7 +31,7 @@ Este projeto faz parte da trilha Iniciante em Programação G8 - ONE oferecida e
 
 ---
 
-### Requisitos:
+## Requisitos:
 
 Antes de instalar, certifique-se de ter as seguintes ferramentas:
 
@@ -52,8 +39,13 @@ Antes de instalar, certifique-se de ter as seguintes ferramentas:
 - **Live Server**: Extensão VsCode para visualização via Navegador Web
 - **Git** - Para clonar o repositório.
 
-### Passo a Passo:
+## Passo a Passo:
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/amarildochagasjr/OracleONE-Alura
+
+## Organizadores:
+<br>
+
+[![Alura](img/alura-logo2.jpeg)](https://www.alura.com.br/) **Alura** &nbsp;&nbsp;&nbsp;&nbsp; [![Oracle](img/one.png)](https://www.oracle.com/br/education/oracle-next-education/) **ONE**
